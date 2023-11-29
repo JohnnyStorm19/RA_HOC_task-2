@@ -1,4 +1,4 @@
-# React_Lifecycle-http_task-2
+# React_HOC_task-2
 
 ## [Launch](https://johnnystorm19.github.io/RA_HOC_task-2/)
 
